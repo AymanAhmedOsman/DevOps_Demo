@@ -1,6 +1,6 @@
-# DevOps 3‑Tier Application (Tasks) — EKS + Helm + Terraform + GitHub Actions
+# DevOps 3‑Tier Application (Tasks) — EKS + Helm + Terraform + AWS + GitHub Actions
 
-This repo contains a complete, working reference implementation to satisfy your task requirements:
+This repo contains a complete, working reference implementation to satisfythe DevOps 3‑Tier Application (Demo) — EKS + Helm + Terraform + GitHub Actions:
 
 - **Application**: Simple 3‑tier app (Frontend via NGINX, Backend via FastAPI, Postgres DB).
 - **Local Dev**: `docker compose` for fast local testing.
